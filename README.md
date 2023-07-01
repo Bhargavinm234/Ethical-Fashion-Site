@@ -1,4 +1,4 @@
-# project
+# Ethical Fashion Site
 Installation process:
 
 1.In your web browser , open phpmyadmin ->phpmyadmin.net
