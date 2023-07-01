@@ -3,6 +3,7 @@
 In the live website , the login page redirects you to the main page .Enter the login credentials
 
 Username - admin
+
 Password - password
 
 Make sure it is entered properly .Hence access our website!
